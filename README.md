@@ -1,5 +1,5 @@
 ##
-[![image](https://github.com/DavidB593/DavidB593/assets/114110615/3667d78d-ac3d-4223-af61-0a748039447d)](https://www.youtube.com/@davidb-593-)
+[![image](https://github.com/DavidB593/DavidB593/assets/114110615/b409e90a-44d6-424c-85fc-ccdde89393a4)](https://www.youtube.com/@davidb-593-)
 
 <!--
 
