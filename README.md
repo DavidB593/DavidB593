@@ -2,7 +2,7 @@
 
 ## Mi Canal de YouTube
 
-<iframe width="560" height="315" src="https://youtu.be/NYnH7D2lWpc?si=x0MRlaN31XmP7AN2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/embebed/NYnH7D2lWpc?si=x0MRlaN31XmP7AN2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--
 
