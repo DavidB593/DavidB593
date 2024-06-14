@@ -1,4 +1,14 @@
 ##
+
+[![Título del Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/UZarokfByTs?si=lmpZCzMbDTP96IvW))
+
+<!--
+
+## Mi Canal de YouTube
+
+[![Visita mi canal de YouTube](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/channel/UCxxxxxxx)
+
+
 [![image](https://github.com/DavidB593/DavidB593/assets/114110615/b409e90a-44d6-424c-85fc-ccdde89393a4)](https://www.youtube.com/@davidb-593-)
 
 <!--
