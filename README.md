@@ -1,6 +1,6 @@
 ##
 
-[![Título del Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/UZarokfByTs?si=lmpZCzMbDTP96IvW))
+[![Título del Video](https://img.youtube.com/watch?v=VDl_I0KdP4U.jpg)](https://www.youtube.com/watch?v=VDl_I0KdP4U)
 
 <!--
 
